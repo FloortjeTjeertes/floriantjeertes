@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="nl_NL" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="floortje-tjeertes-b32497183" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/floortje-tjeertes-b32497183?trk=profile-badge">Floortje Tjeertes</a></div>
+
               
 
 <h3 align="left">Languages and Tools:</h3>
